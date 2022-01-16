@@ -1,7 +1,7 @@
 ReactJs Interview Capgemini
 
 1. Tell me about yourself
-2. What are the ES6 features that u know?
+2. What are the ES6 features that you know?
 3. Difference between rest and spread operators
 4. Arrow function and its advantage
 5. Controlled and uncontrolled components in React
